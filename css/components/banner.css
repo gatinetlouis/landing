@@ -1,0 +1,23 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url('../../images/newspaper2.jpg');
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  padding: 100px;
+  height : 250px;
+  margin-bottom: 80px;
+}
+
+.banner .container h1 {
+  font-weight: bold;
+  color: #fb8d62;
+  font-size: 40px;
+
+}
+
+.banner .container p {
+  font-weight: lighter;
+  font-size: 25px;
+  color: #fb8d62;
+  margin-bottom: 40px;
+}
